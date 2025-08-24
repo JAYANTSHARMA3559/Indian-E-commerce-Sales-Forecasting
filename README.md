@@ -47,6 +47,9 @@ jupyter notebook forecasting.ipynb
 File: Indian_Ecommerce_Forecast.pbix
 Explore KPIs and interactive charts
 ________________________________________
+Dashboard Preview
+![Indian E-commerce Dashboard](assets/Indian E-commerce Sales Forecasting Dashboard.png)
+________________________________________
 Future Improvements
 •	Add product-level or category-level forecasting
 •	Deploy interactive dashboard online using Power BI Service / Streamlit
